@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielADK](https://github.com/DanielADK)
 
-- 💬 Ask me about **Basics of Computer Science & Programming**
+- 💬 Ask me about **Computer Science & Programming**
 
 - 📫 Contanct me on <a href="https://discordapp.com/users/Daniels#1339">Discord</a>
 
