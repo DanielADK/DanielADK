@@ -5,9 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieladk" alt="danieladk" /></a> </p>
 
-- 🔭 I’m currently working on [eApplication](https://github.com/DanielADK/symeprihlasky)
+- 🔭 I’m currently working on [Bachelor thesis](https://github.com/DanielADK/tul-bp)
 
-- 🌱 I’m currently learning **Backend web frameworks**
+- 🔥 My finished projects:
+  - [2D World generator in C++](https://github.com/DanielADK/ald-world-generator)
+  - [T9 Number finder](https://github.com/DanielADK/ald-t9-number-finder)
+  - [Graph PathFinding](https://github.com/DanielADK/TGHE-nejspolehlivejsi-cesta)
+  - [School information system analysis](https://github.com/DanielADK/tul-prj)
+  - [Czech song book](https://github.com/DanielADK/zpevnik)
+  - [Sorting Algorithm Vizualization in MATLAB](https://github.com/DanielADK/SortingAlgorithmVizualization)
+  - [Forked Plagiarism checker](https://github.com/DanielADK/Plagiarism-checker-Python)
+  - [ESP8266 OLED ticker](https://github.com/DanielADK/esp8266_btc_ticker_oled)
+  - [Training manual for camp leaders](https://github.com/DanielADK/skoleni-taborovych-vedouci)
+   
+- 🌱 I’m currently learning **Natural language processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielADK](https://github.com/DanielADK)
 
