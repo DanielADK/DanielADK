@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieladk&label=Profile%20views&color=0e75b6&style=flat" alt="danieladk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieladk" alt="danieladk" /></a> </p>
-
 <h3 align="left">About myself:</h3>
 
 - Teacher: Secondary Technical School of Electrical Engineering, Ječná, Praha
