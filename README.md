@@ -6,7 +6,6 @@
 <h3 align="left">About myself:</h3>
 
 - Teacher: Secondary Technical School of Electrical Engineering, Ječná, Praha
-- Alma mater: Faculty of Information Technology, CTU in Prague
 - Currently studying: Faculty of Mechatronics, Informatics and Interdisciplinary Studies, Technical University of Liberec
 <hr>
 - 🔭 I’m currently working on [Bachelor thesis](https://github.com/DanielADK/tul-bp)
