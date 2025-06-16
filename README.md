@@ -11,6 +11,8 @@
 - 🔭 I’m currently working on [Bachelor thesis](https://github.com/DanielADK/tul-bp)
 
 - 🔥 My finished projects:
+  - [Scheldon - Class register system](https://github.com/DanielADK/scheldon)
+  - [Gas station simulator (concurrency)](https://github.com/DanielADK/Go-gas-station-simulation)
   - [WeatherAPP with own PHP Framework](https://github.com/DanielADK/tul-stin)
   - [2D World generator in C++](https://github.com/DanielADK/ald-world-generator)
   - [T9 Number finder](https://github.com/DanielADK/ald-t9-number-finder)
@@ -19,7 +21,6 @@
   - [Czech song book](https://github.com/DanielADK/zpevnik)
   - [Sorting Algorithm Vizualization in MATLAB](https://github.com/DanielADK/SortingAlgorithmVizualization)
   - [Forked Plagiarism checker](https://github.com/DanielADK/Plagiarism-checker-Python)
-  - [ESP8266 OLED ticker](https://github.com/DanielADK/esp8266_btc_ticker_oled)
   - [Training manual for camp leaders](https://github.com/DanielADK/skoleni-taborovych-vedouci)
    
 - 🌱 I’m currently learning **Natural language processing**
