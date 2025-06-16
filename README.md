@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Computer Science Student & Teacher</h3>
+<h3 align="center">Webdev, Computer Science Teacher & Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieladk&label=Profile%20views&color=0e75b6&style=flat" alt="danieladk" /> </p>
 
 <h3 align="left">About myself:</h3>
 
-- Teacher: Secondary Technical School of Electrical Engineering, Ječná, Praha
-- Currently studying: Faculty of Mechatronics, Informatics and Interdisciplinary Studies, Technical University of Liberec
+- Teacher: Secondary Technical School of Electrical Engineering, Ječná, Prague
+- Currently studying: Faculty of Economics and Management CZU Prague
 <hr>
 - 🔭 I’m currently working on [Bachelor thesis](https://github.com/DanielADK/tul-bp)
 
