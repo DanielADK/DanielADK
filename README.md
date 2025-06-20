@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Webdev, Computer Science Teacher & Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieladk&label=Profile%20views&color=0e75b6&style=flat" alt="danieladk" /> </p>
@@ -6,28 +5,21 @@
 <h3 align="left">About myself:</h3>
 
 - Teacher: Secondary Technical School of Electrical Engineering, Ječná, Prague
-- Currently studying: Faculty of Economics and Management CZU Prague
+- Webdev 
 <hr>
-- 🔭 I’m currently working on [Bachelor thesis](https://github.com/DanielADK/tul-bp)
 
 - 🔥 My finished projects:
   - [Scheldon - Class register system](https://github.com/DanielADK/scheldon)
   - [Gas station simulator (concurrency)](https://github.com/DanielADK/Go-gas-station-simulation)
   - [WeatherAPP with own PHP Framework](https://github.com/DanielADK/tul-stin)
   - [2D World generator in C++](https://github.com/DanielADK/ald-world-generator)
-  - [T9 Number finder](https://github.com/DanielADK/ald-t9-number-finder)
-  - [Graph PathFinding](https://github.com/DanielADK/TGHE-nejspolehlivejsi-cesta)
   - [School information system analysis](https://github.com/DanielADK/tul-prj)
   - [Czech song book](https://github.com/DanielADK/zpevnik)
   - [Sorting Algorithm Vizualization in MATLAB](https://github.com/DanielADK/SortingAlgorithmVizualization)
   - [Forked Plagiarism checker](https://github.com/DanielADK/Plagiarism-checker-Python)
   - [Training manual for camp leaders](https://github.com/DanielADK/skoleni-taborovych-vedouci)
    
-- 🌱 I’m currently learning **Natural language processing**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DanielADK](https://github.com/DanielADK)
-
-- 💬 Ask me about **Computer Science & Programming**
 
 - 📫 Contanct me on <a href="https://discordapp.com/users/Daniels#1339">Discord</a>
 
